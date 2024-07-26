@@ -12,6 +12,9 @@ export function Hero() {
   return (
     <Container id="home">
       <div className="hero-text">
+      <ScrollAnimation animateIn="fadeInUp">
+          <h2>Wel Come</h2>
+        </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp">
           <p>Hello <img src={Hello} alt="Hello" width="20px"/>, I'm</p>
         </ScrollAnimation>
