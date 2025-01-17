@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/github.io/Portfolio-github/static/css/main.039bf95e.css",
+    "main.js": "/github.io/Portfolio-github/static/js/main.03a4abd6.js",
+    "static/media/Hello.gif": "/github.io/Portfolio-github/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Piyas Ghosh_209.pdf": "/github.io/Portfolio-github/static/media/Piyas Ghosh_209.6f2702214a6a6a0fde1c.pdf",
+    "static/media/img.png": "/github.io/Portfolio-github/static/media/img.1ce79f3b22f458994e2a.png",
+    "static/media/illustration.svg": "/github.io/Portfolio-github/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/github.io/Portfolio-github/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/node-icon.svg": "/github.io/Portfolio-github/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/github.io/Portfolio-github/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/whatsapp.svg": "/github.io/Portfolio-github/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/bootstrap-icon.svg": "/github.io/Portfolio-github/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/github.io/Portfolio-github/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/github.io/Portfolio-github/index.html",
+    "static/media/telegram.svg": "/github.io/Portfolio-github/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/instagram.svg": "/github.io/Portfolio-github/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/phone-icon.svg": "/github.io/Portfolio-github/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/shopify.svg": "/github.io/Portfolio-github/static/media/shopify.162913e43c02c125fd0720d80fc0dba3.svg",
+    "static/media/github.svg": "/github.io/Portfolio-github/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/github.io/Portfolio-github/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/external-link.svg": "/github.io/Portfolio-github/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/html-icon.svg": "/github.io/Portfolio-github/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/wordpress.svg": "/github.io/Portfolio-github/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
+    "static/media/css-icon.svg": "/github.io/Portfolio-github/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/linkedin.svg": "/github.io/Portfolio-github/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/github.io/Portfolio-github/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/github.io/Portfolio-github/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "main.039bf95e.css.map": "/github.io/Portfolio-github/static/css/main.039bf95e.css.map",
+    "main.03a4abd6.js.map": "/github.io/Portfolio-github/static/js/main.03a4abd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.03a4abd6.js"
+  ]
+}
