@@ -4,7 +4,7 @@ import { NavHashLink, HashLink } from 'react-router-hash-link'
 import { useState } from 'react'
 import Resume from '../../assets/Piyas Ghosh_209.pdf'
 export function Header() {
-  const [isActive, setActive] = useState(false)
+  const [isActive, setActive] = useState(false);
   function toggleTheme() {
     let html = document.getElementsByTagName('html')[0]
     html.classList.toggle('light')
@@ -45,14 +45,15 @@ export function Header() {
           </a>
         </nav>
         <div
-          aria-expanded={isActive ? 'true' : 'false'}
+          // aria-expanded={isActive ? 'true' : 'false'}
           aria-haspopup="true"
           aria-label={isActive ? 'Fechar menu' : 'Abrir menu'}
           className={isActive ? 'menu active' : 'menu'}
           onClick={() => {
-            setActive(!isActive)
+            setActive(!isActive);
           }}
-        ></div>
+        >
+        </div>
       </Router>
     </Container>
   )
